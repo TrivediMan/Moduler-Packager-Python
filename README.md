@@ -1,0 +1,7 @@
+🛠️ Project Overview: Multi-Utility ToolkitThe Multi-Utility Toolkit is a comprehensive, interactive command-line application designed to demonstrate the power of Python's built-in modules. It serves as an all-in-one suite for performing time calculations, mathematical computations, data generation, and file management.✨ Core FunctionalitiesDatetime & Time Operations:Display real-time date and clock data.Calculate the precise day difference between two dates.Integrated Stopwatch and Countdown Timer tools.Mathematical Suite:Advanced calculations including Factorials and Compound Interest.Trigonometric functions ($sin$, $cos$, $tan$) and geometry tools like circle area calculation.Random Data Generation:Generate random integers and lists.Security tools for creating random passwords and 6-digit OTPs.File Management System:Complete CRUD operations: Create, Read, Write, and Append to local text files.Safety checks to verify file existence before reading.Advanced Utilities:UUID Generator: Create unique universal identifiers instantly.Module Explorer: A dynamic tool to inspect and list all available attributes of any imported Python module.
+
+
+
+
+
+🚀 Technical HighlightsLanguage: Python 3.x.Modules Used: Leverages datetime, time, random, uuid, math, and os.User Interface: Intuitive, menu-driven CLI (Command Line Interface) with nested sub-menus for organized navigation.Error Handling: Includes basic input validation and module import checks to ensure a smooth user experience.
